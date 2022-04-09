@@ -1,3 +1,6 @@
+<h1>I wanted a bookmarks sort and used this previously. Now I see mods can be shared. I removed Mobile and Other support, I use this with xbrowsersync.
+Second thing is the original writer has some really nice code!</h1>
+
 <img src="https://raw.githubusercontent.com/ForestMist/sprucemarks/master/images/sprucemarks.jpg" alt="">
 
 Sprucemarks is a Google Chrome Extension that automatically sorts your bookmarks.
